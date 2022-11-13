@@ -1,0 +1,5 @@
+.DS_Store
+pyenv/**
+raw_data/**
+data_1/**
+data_2/**
